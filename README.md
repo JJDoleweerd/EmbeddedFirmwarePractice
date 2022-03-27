@@ -8,3 +8,7 @@ Gpio Assembly Tutorial Project: A simple project to get a basic understanding of
 Timer Delay Tutorial Project: A C based project designed for the Nucleo STM32F411RE board. Toggles an LED on/off every second.
 
 Timer Counter Project: Built in C to toggle an LED ON/OFF every 5 button presses of the embedded button on the board. Then replicated and successfully run on the Nucleo-STM32F401RE board.
+
+Timer Output Compare Project: To Be Added
+
+TimerPWM Project: To Be Added
