@@ -14,3 +14,7 @@ Timer Interrupt Project: Description To Be Added
 Timer Output Compare Project: Description To Be Added
 
 TimerPWM Project: Description To Be Added
+
+ADC DMA Project: Description To Be Added
+
+ADC Interrupt Project: Description To Be Added
