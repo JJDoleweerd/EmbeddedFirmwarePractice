@@ -11,7 +11,7 @@ Timer Counter Tutorial Project: Built in C to toggle an LED ON/OFF every 5 butto
 
 Timer Interrupt Tutorial Project: A C based project that toggles the onboard LED every time a set period has elapsed.
 
-Timer Output Compare Tutorial Project: Description To Be Added
+Timer Output Compare Tutorial Project: C based project that toggles different pins on different set intervals.
 
 TimerPWM Tutorial Project: Description To Be Added
 
