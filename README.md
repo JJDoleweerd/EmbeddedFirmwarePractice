@@ -18,3 +18,5 @@ TimerPWM Tutorial Project: Description To Be Added
 ADC DMA Tutorial Project: Description To Be Added
 
 ADC Interrupt Tutorial Project: Description To Be Added
+
+ADC Continuous Conversion Tutorial Project: Description To Be Added
