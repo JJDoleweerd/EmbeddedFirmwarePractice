@@ -17,6 +17,6 @@ TimerPWM Tutorial Project: Description To Be Added
 
 ADC DMA Tutorial Project: Description To Be Added
 
-ADC Interrupt Tutorial Project: Description To Be Added
+ADC Interrupt Tutorial Project: C Based project using the HAL library to read the values of a potentiometer.
 
 ADC Continuous Conversion Tutorial Project: Description To Be Added
