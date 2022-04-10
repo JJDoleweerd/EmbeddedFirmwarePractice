@@ -6,7 +6,7 @@ Languages Used: Assembly, C, C++
 Gpio Assembly Tutorial Project: A simple project to get a basic understanding of assembly programming and the differences between driver development in C and assembly. Next Steps: Write an identical driver for the Nucleo STM32F401RE board and run on the physical board. This will be good practice at reading datasheets and reaffirming current assembly knowledge. 
 
 
-Timer Projects
+## Timer Projects
 
 Timer Delay Tutorial Project: A C based project designed for the Nucleo STM32F411RE board. Toggles an LED on/off every second.
 
@@ -19,7 +19,7 @@ Timer Output Compare Tutorial Project: C based project that toggles different pi
 TimerPWM Tutorial Project: Description To Be Added
 
 
-ADC Projects
+## ADC Projects
 
 ADC DMA Tutorial Project: Description To Be Added
 
