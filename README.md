@@ -3,6 +3,8 @@ All drivers that have been developed for the purpose of practicing and learning 
 This will be documentation of my journey into firmware development. This will consist of tutorial projects and practice projects.
 Languages Used: Assembly, C, C++
 
+## Assembly Projects
+
 Gpio Assembly Tutorial Project: A simple project to get a basic understanding of assembly programming and the differences between driver development in C and assembly. Next Steps: Write an identical driver for the Nucleo STM32F401RE board and run on the physical board. This will be good practice at reading datasheets and reaffirming current assembly knowledge. 
 
 
