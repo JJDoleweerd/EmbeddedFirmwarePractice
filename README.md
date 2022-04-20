@@ -31,4 +31,4 @@ ADC Continuous Conversion Tutorial Project: Embedded C based project using ADC a
 
 ## SPI Projects
 
-To Be Added
+SPI Interrupt Tutorial Project: C Based tutorial project that utilizes SPI communication with interrupt.
