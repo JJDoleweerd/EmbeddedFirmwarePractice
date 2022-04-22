@@ -32,3 +32,5 @@ ADC Continuous Conversion Tutorial Project: Embedded C based project using ADC a
 ## SPI Projects
 
 SPI Interrupt Tutorial Project: C Based tutorial project that utilizes SPI communication with interrupt through the HAL library.
+
+SPI and DMA Project: Coming Soon
